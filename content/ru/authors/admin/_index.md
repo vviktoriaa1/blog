@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Бизнес-аналитика
+  - Управление проектами
+  - Финансовые технологии (FinTech)
+  - Психология в бизнесе
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю бизнес-информатику, интересуюсь цифровыми технологиями, аналитикой данных и автоматизацией бизнес-процессов.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,47 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю бизнес-аналитику, управление проектами и цифровую трансформацию бизнеса.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
+      - name: Excel
+        description: Анализ данных и финансовое моделирование
         percent: 80
+        icon: code-bracket
+      - name: SQL
+        description: Работа с базами данных и запросами
+        percent: 70
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Power BI
+        description: Визуализация данных и создание отчетов
+        percent: 65
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Психология
+        description: Интересуюсь поведенческой экономикой и лидерством
+        percent: 85
+      - name: Йога
+        description: Занимаюсь для поддержания баланса и концентрации
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Чтение бизнес-литературы
+        description: Изучаю книги по управлению и предпринимательству
         percent: 80
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
+  - name: Испанский
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
